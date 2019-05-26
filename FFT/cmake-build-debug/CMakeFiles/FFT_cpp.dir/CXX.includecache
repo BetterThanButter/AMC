@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/agavrilenko/Coding/AMB/FFT/main.cpp
+iostream
+-
+vector
+-
+cstdlib
+-
+string
+-
+complex
+-
+algorithm
+-
+iomanip
+-
+complex
+-
+initializer_list
+-
+cmath
+-
+
